@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Thierry  
-**Software Engineer | Web Development & Emerging Tech Enthusiast**
+**Software Engineer**
 
 - 🚀 Passionate about building **scalable web solutions**, **database optimization**, and exploring **machine learning**  
 - 🌱 Continuously expanding expertise in **Python**, **JavaScript**, **React**, **Node.js**, and more  
