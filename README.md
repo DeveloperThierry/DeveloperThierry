@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Thierry Laguerre  
+# 👋 Hi, I’m Thierry  
 **Software Engineer | Web Development & Emerging Tech Enthusiast**
 
 - 🚀 Passionate about building **scalable web solutions**, **database optimization**, and exploring **machine learning**  
