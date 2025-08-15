@@ -1,3 +1,5 @@
+<img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/8f72b1be-903e-4959-8e9e-05a1d749d91b" />
+
 # 👋 Hi, I’m Thierry  
 **Software Engineer**
 
