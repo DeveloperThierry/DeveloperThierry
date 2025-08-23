@@ -7,7 +7,7 @@
 - 🌱 Continuously expanding expertise in **Python**, **JavaScript**, **React**, **Node.js**, and more  
 - 📫 Let’s connect: [LinkedIn](https://www.linkedin.com/in/thierrylaguerre) | [Website](https://portfolio-sandy-ten-84.vercel.app/) | [Email](mailto:developerthierry@gmail.com)  
 - 😄 **Pronouns**: He/Him 
-- ⚡ **Fun Fact**: Experienced working with the **federal government** and enjoy **growth audiobooks**
+- ⚡ **Fun Fact**: Experienced working with the **federal government** on top secret database and enjoy **growth audiobooks**
 
 - **Languages:**
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
