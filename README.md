@@ -1,9 +1,4 @@
-
-<img width="1500" height="500" alt="github-header" src="https://github.com/user-attachments/assets/8c9b4bdd-536b-4928-a95f-664290d81e36" />
-
-![Lofi Vibes](https://github.com/user-attachments/assets/4578e0d5-dca7-4638-8f79-03211236cc1e)
-
-![Lofi Vibes](https://github.com/user-attachments/assets/8c9b4bdd-536b-4928-a95f-664290d81e36)
+![Profile Header](https://github.com/user-attachments/assets/8c9b4bdd-536b-4928-a95f-664290d81e36)
 
 
 
