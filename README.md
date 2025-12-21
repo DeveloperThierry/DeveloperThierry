@@ -1,6 +1,6 @@
 # 👋 I’m Thierry 
 
-**Senior Software Engineer | Scalable Systems & Data Architecture** *Driving revenue and operational efficiency through high-integrity engineering.*
+**Software Engineer | Scalable Systems & Data Architecture** *Driving revenue and operational efficiency through high-integrity engineering.*
 
 ---
 
