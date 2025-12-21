@@ -1,3 +1,5 @@
+![Profile Header](https://github.com/user-attachments/assets/8c9b4bdd-536b-4928-a95f-664290d81e36)
+
 # 👋 I’m Thierry 
 
 **Software Engineer | Scalable Systems & Data Architecture** *Driving revenue and operational efficiency through high-integrity engineering.*
