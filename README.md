@@ -35,7 +35,7 @@
 </p>
 
 <div align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/thierrylaguerre)">
+  <a href="https://www.linkedin.com/in/thierrylaguerre" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
